@@ -1,0 +1,54 @@
+{
+    "name": "黑",
+    "visuals": {
+        "grayboxPresetName": "自定义",
+        "grayboxMat": "Default",
+        "grayboxR": 1.0,
+        "grayboxG": 1.0,
+        "grayboxB": 1.0,
+        "sphereboxTexture": "E:/Program Files (x86)/Steam/steamapps/common/Aim Lab/aimlab_tb_Data/StreamingAssets/Sprites/Default-Texture.jpg",
+        "sphereboxThumbnail": "E:/Program Files (x86)/Steam/steamapps/common/Aim Lab/aimlab_tb_Data/StreamingAssets/Sprites/Default-Thumbnail.jpg",
+        "overrideCreatorStudio": false,
+        "disableShadows": true,
+        "grayboxCustomSettings": [
+            "{\"protocolVersion\":1,\"sceneName\":\"Graybox\",\"colorMode\":2,\"settings\":[{\"textureName\":\"Solid Color\",\"metallic\":1.0,\"smoothness\":0.586,\"tiling\":1.0,\"r\":0.0,\"g\":0.0,\"b\":0.0,\"a\":1.0,\"enabled\":true},{\"textureName\":\"Dark Nebula\",\"metallic\":0.0,\"smoothness\":0.5,\"tiling\":1.0,\"r\":0.5754717,\"g\":0.5754717,\"b\":0.5754717,\"a\":1.0,\"enabled\":true},{\"textureName\":\"\",\"metallic\":0.808,\"smoothness\":0.919,\"tiling\":1.0,\"r\":0.754717,\"g\":0.754717,\"b\":0.754717,\"a\":1.0,\"enabled\":true},{\"textureName\":\"\",\"metallic\":0.916,\"smoothness\":0.956,\"tiling\":1.0,\"r\":0.6603774,\"g\":0.6603774,\"b\":0.6603774,\"a\":1.0,\"enabled\":true}]}",
+            "",
+            "",
+            ""
+        ]
+    },
+    "targets": {
+        "TargetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 255.0,
+            "a": 255.0
+        },
+        "TargetSkinType": 8,
+        "Metalicness": 0.0,
+        "Smoothness": 0.0
+    },
+    "targetsHit": {
+        "TargetColor": {
+            "r": 0.0,
+            "g": 255.0,
+            "b": 0.0,
+            "a": 255.0
+        },
+        "TargetSkinType": 4,
+        "Metalicness": 0.0,
+        "Smoothness": 0.0
+    },
+    "targetsMiss": {
+        "TargetColor": {
+            "r": 255.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 255.0
+        },
+        "TargetSkinType": 3,
+        "Metalicness": 0.0,
+        "Smoothness": 0.0
+    },
+    "targetCosmetics": []
+}
